@@ -1,0 +1,21 @@
+<h5>Buscar</h5>
+
+<div class="row">
+    <div class="col-md-6">
+        <input 
+            type="text" 
+            class="form-control"
+            placeholder="Buscar GIFs..."
+            (keyup.enter)="buscar();"
+            #txtBuscar
+        >
+    </div>
+    <div class="col">
+        <button 
+            class="btn btn-primary btn-block col-md-5"   
+            (click)="buscar();"
+        >
+        ¡Buscar!
+        </button>
+    </div>
+</div>
