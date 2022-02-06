@@ -3,7 +3,9 @@
 Aplicación creada por medio del framework Angular para buscar GIFs.
 El usuario introduce un término para la búsqueda y la aplicación se conecta a la API de Giphy, con lo que el servicio se encarga de proveer al FrontEnd con los resultados de la búsqueda.
 
-Puedes limitar el número de GIFs con el slider situado en la barra lateral de la aplicación.
+Es posible limitar el número de GIFs con el slider situado en la barra lateral de la aplicación.
+
+Puedes mirar y experimentar con la aplicación en acción en https://buscagif.netlify.app/.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
 
