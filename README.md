@@ -2,7 +2,7 @@
 
 Aplicación creada por medio del framework Angular para buscar GIFs.
 
-El usuario introduce un término para la búsqueda y la aplicación se conecta a la API de Giphy, con lo que el servicio se encarga de proveer al FrontEnd con los resultados de dicha consulta.
+El usuario introduce un término para la búsqueda y la aplicación se conecta a la API de [Giphy](https://giphy.com/), con lo que el servicio se encarga de proveer al FrontEnd con los resultados de dicha consulta.
 
 Estos resultados se almacenan en el historial de la sesión. 
 De esta forma, cuando vuelvas a abrir la aplicación, los resultados de la última búsqueda se conservan.
