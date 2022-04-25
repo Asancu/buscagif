@@ -12,6 +12,8 @@ También puedes hacer click y copiar al instante el enlace del GIF al portapapel
 
 Puedes mirar y experimentar con la aplicación en acción en https://buscagif.netlify.app/.
 
+Vale, ahora aquí vendría el resto del MD generado por Angular:
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
 
 ## Development server
